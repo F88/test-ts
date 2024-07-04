@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@tsconfig/next": "^2.0.3",
+    "@tsconfig/recommended": "^1.0.7",
+    "typescript": "^5.5.3"
+  }
+}
